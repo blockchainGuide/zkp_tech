@@ -11,29 +11,29 @@
 #### 完全同态加密（FHE）
 
 ### 零知识证明概念、历史和应用场景
-#### 零知识证明的定义
-#### 零知识证明的发展历程
-#### 零知识证明的应用场景
+- [x] :零知识证明的定义
+- [x] :零知识证明的发展历程
+- [x] :零知识证明的应用场景
 
 ### 零知识证明基本原理
-#### 互模拟（simulators）
-#### 可靠性（soundness）
-#### 完整性（completeness）
-#### 零知识性（zero-knowledgeness）
+- [x] :互模拟（simulators）
+- [x] : 可靠性（soundness）
+- [x] : 完整性（completeness）
+- [x] : 零知识性（zero-knowledgeness）
 
 ## 经典零知识证明协议
 
-### Schnorr协议
-#### Schnorr协议的原理和过程
-#### Schnorr协议的安全性分析
-#### Fiat-Shamir协议
-#### Fiat-Shamir协议的原理和过程
-#### Fiat-Shamir协议的安全性分析
+- [x] :Schnorr协议
 
-### 非交互式零知识证明（NIZK）
-#### 非交互式零知识证明的定义
-#### Fiat-Shamir启发式方法
-#### 非交互式零知识证明的应用
+- [x] :Schnorr协议的原理和过程
+
+- [x] :Schnorr协议的安全性分析
+
+- [x] :Fiat-Shamir协议
+- [x] : Fiat-Shamir协议的原理和过程
+- [x] :Fiat-Shamir协议的安全性分析
+- [x] :Fiat-Shamir启发式方法
+- [x] :非交互式零知识证明的应用
 
 ## 零知识证明构造
 ### 基于椭圆曲线密码学的零知识证明构造方法
